@@ -1,3 +1,13 @@
+---
+tags:
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/mqmountclassicmodels.2584/"
+support_link: "https://www.redguides.com/community/threads/mqmountclassicmodels.83417/"
+repository: "https://github.com/Knightly1/MQMountClassicModels"
+authors: "Knightly"
+tagline: "Emulator Servers; This plugin will allow you to mount while you have classic models turned on."
+---
+
 # MQMountClassicModels
 
 Emulator servers do not have the live update that allows you to mount while using classic models.  This plugin will
