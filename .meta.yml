@@ -1,0 +1,5 @@
+docs_repository: "https://github.com/knightly1/mqmountclassicmodels"
+docs_edit_uri: "edit/main/"
+docs_path_transform:
+  from: "projects/mqmountclassicmodels/"
+  to: ""
